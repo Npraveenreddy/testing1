@@ -4,7 +4,7 @@ on:
     branches:
       - master
     paths:
-      - "folder1/**"
+      - "folder2/**"
   create:
     branches:
       - "master/**"
