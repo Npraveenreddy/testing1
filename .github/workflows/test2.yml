@@ -1,4 +1,3 @@
-
 name: uniphore/product-engineering/platform-services/java-services
 on:
   push:
